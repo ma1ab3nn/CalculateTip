@@ -1,3 +1,1 @@
-"Hello!
-
-This is a very interesting readme file.
+A basic JS program to calculate the tip on a foodbill
